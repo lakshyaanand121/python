@@ -1,4 +1,5 @@
 print("hello world",end=' ')
+print('lakshya')
 print('hello',1,1.11,'hey',sep='/')
 list=[1,2,3,4,5]
 print(list)
