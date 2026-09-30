@@ -5,7 +5,7 @@
 #     fact=fact * i
 #     result=(result+i)/fact
 # 
-# print(result)  
+# print(result)   
 
 # nested loop
 
