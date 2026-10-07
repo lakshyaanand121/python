@@ -11,7 +11,7 @@ import numpy as np
 # print(arr2.size)
 # print(arr2.shape)
 # print(arr2.ndim)
-# print(arr2.itemsize)
+# print(arr2.itemsize) 
 # print(arr2.dtype)
 
 # arr3=np.arange(100)
