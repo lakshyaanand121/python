@@ -64,7 +64,7 @@
 
 # modules:
 #math
-import math
+import math 
 print(math.factorial(3))
 #keyword
 import keyword
