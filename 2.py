@@ -13,7 +13,7 @@
 # b=number%10
 # number=number//10
 # c=number
-# print(a+b+c)
+# print(a+b+c) 
 
 
 # email1='lakshya'
