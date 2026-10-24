@@ -30,7 +30,7 @@
 #         print('AI/DS')
 # class section:
 #     def sec(self):
-#         print('B')
+#         print('B') 
 # class student(year,branch,section):
 #     print('lakshya anand')
 # s=student()
