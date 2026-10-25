@@ -25,7 +25,7 @@
 # 
 # print(http_status(200))     
 # print(http_status(404))   
-# print(http_status(500))  
+# print(http_status(500))   
 # print(http_status(456))          
 
 # dict1={'lakshya':19}
