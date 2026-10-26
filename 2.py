@@ -73,7 +73,7 @@ print(keyword.kwlist)
 import random
 print(random.randint(1,100))
 #datetime
-import datetime
+import datetime 
 print(datetime.datetime.now())
 
 help('modules')
