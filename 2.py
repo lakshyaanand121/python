@@ -10,7 +10,7 @@
 # print(number)
 # a=number%10
 # number=number//10
-# b=number%10
+# b=number%10 
 # number=number//10
 # c=number
 # print(a+b+c) 
