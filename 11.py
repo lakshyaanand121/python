@@ -8,7 +8,7 @@ class parent(grandparent):
 
 class child(parent):
     def c():
-        print('child class')
+        print('child class') 
 
 d=child
 
