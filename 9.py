@@ -8,7 +8,7 @@
 
 # from typing import list,union ,Tuple
 # person:list(int)=[1,2,3,4,5]
-# person2:dict(str,int)={"lakshya":19,"shyam":20}
+# person2:dict(str,int)={"lakshya":19,"shyam":20} 
 # password:union(str,int)="lak123"
 
 # def http_status(status):
