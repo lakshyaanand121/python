@@ -9,7 +9,7 @@
 #     print(x) 
 #     x+=1
 # else:
-#     print('end')  
+#     print('end')
 
 # import random
 # jackpot=random.randint(1,10)
