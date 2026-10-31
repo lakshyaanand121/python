@@ -7,7 +7,7 @@
 
 w='hello world'
 # print(w[2:8])
-# print(w[5:-1])
+# print(w[5:-1]) 
 # print(w[::-1])
 # 
 #  strings are immutable in python.
