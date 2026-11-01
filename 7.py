@@ -4,7 +4,7 @@
 #     fact=fact*i
 #     print(fact)
    
-# import math 
+# import math
 # print(math.factorial(5))
 
 
