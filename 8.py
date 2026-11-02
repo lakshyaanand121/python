@@ -1,7 +1,7 @@
 # class addition:
 #     def setdata(self,a,b):
 #         self.a=a
-#         self.b=b
+#         self.b=b 
 #     def add(self):
 #         print('sum is : ',self.a+self.b)
 # a1=addition()
