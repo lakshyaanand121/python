@@ -3,7 +3,7 @@ import numpy as np
 # print(arr1)
 # print(arr1.size)
 # print(arr1.shape)
-# print(arr1.ndim)
+# print(arr1.ndim) 
 # print(arr1.itemsize)
 
 # arr2=np.array([[[1,2],[3,4]],[[5,6],[7,8]]])
