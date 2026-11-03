@@ -4,7 +4,7 @@
 # B=int(input('enter angle B: '))
 # C=int(input('enter angle C: '))
 # 
-# sum=A+B+C
+# sum=A+B+C 
 # 
 # if sum==180:
 #     print('triangle can be form')
