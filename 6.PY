@@ -2,7 +2,7 @@
 
 # A=int(input('enter angle A: '))
 # B=int(input('enter angle B: '))
-# C=int(input('enter angle C: '))
+# C=int(input('enter angle C: ')) 
 # 
 # sum=A+B+C 
 # 
