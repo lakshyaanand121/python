@@ -7,8 +7,7 @@
 # a1=addition()
 # a1.setdata(10,20)
 # s=a1.add() 
-# print(s)
-
+# print(s)
 # class addition:
 #     def __init__(self,a,b):
 #         self.a=a
