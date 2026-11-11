@@ -2,7 +2,7 @@
 # if(num%2==0):
 #     print(num,'is even')
 # else:
-#     print(num,'is odd')    
+#     print(num,'is odd')   
 
 #a=int(input('enter first number: '))
 #b=int(input('enter second number: '))
