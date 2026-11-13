@@ -2,7 +2,7 @@
 # name:str="lakshya"
 # print(type(n))
 # print(n)
-# def sum(a:int,b:int):
+# def sum(a:int,b:int): 
 #     return a+b
 # print(sum(7,5))
 
