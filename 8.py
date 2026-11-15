@@ -5,7 +5,7 @@
 #     def add(self):
 #         print('sum is : ',self.a+self.b)
 # a1=addition()
-# a1.setdata(10,20)
+# a1.setdata(10,20) 
 # s=a1.add() 
 # print(s)
 # class addition:
