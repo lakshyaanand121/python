@@ -1,6 +1,6 @@
 # 1.Write a program that take a user input of three angles and will find out whether it can form a triangle or not.
 
-# A=int(input('enter angle A: '))
+# A=int(input('enter angle A: ')) 
 # B=int(input('enter angle B: '))
 # C=int(input('enter angle C: ')) 
 # 
