@@ -1,6 +1,6 @@
 class grandparent:
     def a():
-        print('grandparent class')
+        print('grandparent class') 
 
 class parent(grandparent):
     def b():
